@@ -9,6 +9,7 @@ venv/
 # PyInstaller
 /build/
 /dist/
+*.spec
 
 # IDE and operating system files
 .idea/
