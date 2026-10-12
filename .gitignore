@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# PyInstaller
+/build/
+/dist/
+
+# IDE and operating system files
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
